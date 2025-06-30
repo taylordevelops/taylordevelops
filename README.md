@@ -31,3 +31,7 @@ Pixelmator Pro<br />
 English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
+
+::Hosting
+<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Referral</u></a>
+
