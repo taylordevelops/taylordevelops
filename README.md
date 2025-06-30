@@ -13,3 +13,21 @@
 👶🐤 <u>itslejit.com</u> is a french dance club and parkour posse that slams like irish onyx and waterwalks like jesus.<br />
 🤟🎓 <u>Polymathues.com</u> is a Judeo-Christian homeschool supply company that designs innovative products for moms and imams alike.<br />
 <a href="https://octopus.itch.io/marble-elements" tar="_new"><b>octopus.Itch.io/marble-elements</b></a> is my Marble Elements labyrinth-style JS game to collect pieces of eight silver.
+
+
+::Hardware
+  Notebook:
+MacBook Air
+M1, 2020
+Chip Apple M1
+Memory 8 GB
+macOS 15.5
+
+::Software
+Git Hub
+Pixelmator Pro
+
+::Languages
+English, French, Spanish, Latin, Greek
+JavaScript, TypeScript, HTML5, CSS3, Python, Perl, 
+OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis
