@@ -6,9 +6,9 @@
 💩SSHHIT.com is shitty IT for the rodeo.
 💻TaylorDevelops.com is my Git Hub.
 
-🐟🩸EightDrop.com is a french-cracker blue-blood anarchy zine cookbook.
-🐟🥤FishSoda.com is a soft-drink brand we designed.
-⚓🔱ManfisherMinistries.com is a musical street preaching club & brand of comedic fishermen for Christ that replace the dogcatchers.
-💡💸Lightework.com is my MMA name and featherweight eating brand dedicated to the klan and water.
-👶🐤itslejit.com is a french dance club and parkour posse that slams like irish onyx and waterwalks like jesus.
-🤟🎓Polymathues.com is a Judeo-Christian homeschool supply company that designs innovative products for moms and imams alike.
+🐟🩸EightDrop.com is a french-cracker blue-blood anarchy zine cookbook.<br />
+🐟🥤FishSoda.com is a soft-drink brand we designed.<br />
+⚓🔱ManfisherMinistries.com is a musical street preaching club & brand of comedic fishermen for Christ that replace the dogcatchers.<br />
+💡💸Lightework.com is my MMA name and featherweight eating brand dedicated to the klan and water.<br />
+👶🐤itslejit.com is a french dance club and parkour posse that slams like irish onyx and waterwalks like jesus.<br />
+🤟🎓Polymathues.com is a Judeo-Christian homeschool supply company that designs innovative products for moms and imams alike.<br />
