@@ -15,19 +15,19 @@
 🪙🔘<a href="https://octopus.itch.io/marble-elements" tar="_new"><b>octopus.Itch.io/marble-elements</b></a> is my Marble Elements labyrinth-style JS game to collect pieces of eight silver.
 
 
-::Hardware
-  💻 Notebook:
-MacBook Air
-M1, 2020
-Chip Apple M1
-Memory 8 GB
-macOS 15.5
-
-:: 👨🏿‍💻 Software
-Git Hub
-Pixelmator Pro
-
-:: 🤟 Languages
-English, French, Spanish, Latin, Greek
-JavaScript, TypeScript, HTML5, CSS3, Python, Perl, 
-OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis
+::Hardware<br />
+  💻 Notebook:<br />
+MacBook Air<br />
+M1, 2020<br />
+Chip Apple M1<br />
+Memory 8 GB<br />
+macOS 15.5<br />
+<br />
+:: 👨🏿‍💻 Software<br />
+Git Hub<br />
+Pixelmator Pro<br />
+<br />
+:: 🤟 Languages<br />
+English, French, Spanish, Latin, Greek<br />
+JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
+OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
