@@ -37,4 +37,6 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 
 :: Coinbase
 <a href="https://coinbase.com/join/FM3ELUU?src=ios-link" target=_new><u>Coinbase</u></a>
+:: Cash App
+<a href="https://cash.app/$taelsmusic" target=_new>$taelsmusic</a>
 
