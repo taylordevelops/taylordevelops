@@ -40,3 +40,5 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 :: Cash App
 <a href="https://cash.app/$taelsmusic" target=_new>$taelsmusic</a>
 
+:: Digital Business Card
+<a href="https://mybcard.io/card/63cb6ab7-b6e9-4826-84e9-66e1412bf9f0" target=_new>My Digital Business Card</a>
