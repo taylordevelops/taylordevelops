@@ -2,7 +2,7 @@
 - 👀 I am interested in human language development and mastery, mixed-martial arts, rap music, orthodox and catholic faiths, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.
 - 🌱 I am currently studying working on my cookbook projects: True Religion (including hymnal of psalms and poems) and Um Gi Ma (umgima.com; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.
 
-🧂YoungSalty.com is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.
+🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.
 💩SSHHIT.com is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.
 💻TaylorDevelops.com is my Microsoft and Hackintosh Git Hub profile.
 
