@@ -4,7 +4,7 @@
 
 🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.
 💩SSHHIT.com is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.
-💻TaylorDevelops.com is my Microsoft and Hackintosh Git Hub profile.
+💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is my Microsoft and Hackintosh Git Hub profile.
 
 🐟🩸 <u>EightDrop.com</u> is a french-cracker blue-blood anarchy zine cookbook.<br />
 🐟🥤 <u>FishSoda.com</u> is a soft-drink brand we designed.<br />
