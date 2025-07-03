@@ -1,3 +1,5 @@
+{Nisei Bujutsu made me code this.}
+
 - 👋 Hello, my name is Taylor Steven Clark (Shazo Tragedie, Akuma Puma, Arboure Polymathues).
 - 👀 I am interested in human language development and mastery, mixed-martial arts, rap music, orthodox and catholic faiths, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.
 - 🌱 I am currently studying working on my cookbook projects: True Religion (including hymnal of psalms and poems) and Um Gi Ma (umgima.com; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.
