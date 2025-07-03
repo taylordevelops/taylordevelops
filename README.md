@@ -15,6 +15,8 @@
 🪙🔘<a href="https://octopus.itch.io/marble-elements" tar="_new"><b>octopus.Itch.io/marble-elements</b></a> is my Marble Elements labyrinth-style JS game to collect pieces of eight silver.
 
 
+<a href="https://taylorstevenclark.hashnode.dev" target=_new>HashNode Articles</a><br />
+<br />
 ::Hardware<br />
   💻 Notebook:<br />
 MacBook Air<br />
