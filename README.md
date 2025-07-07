@@ -19,7 +19,7 @@
 
 <a href="https://taylorstevenclark.hashnode.dev" target=_new>HashNode Articles</a><br />
 <br />
-::Hardware<br />
+::Hardware Kits<br />
   💻 Notebook:<br />
 MacBook Air<br />
 M1, 2020<br />
@@ -47,6 +47,8 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 :: Digital Business Card
 <a href="https://mybcard.io/card/63cb6ab7-b6e9-4826-84e9-66e1412bf9f0" target=_new>My Digital Business Card</a>
 
+:: Tum Tum Device<br />
+<a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a>
 
 
 :: Lit. Club<br />
