@@ -50,7 +50,9 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 :: Tum Tum Device<br />
 <a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a>
 
-<a href="https://www.emojicode.org" target="_new">🐃 Emojicode</a>
+🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> :: open-source,
+full-field programming language
+consisting of emojis.
 
 :: Lit. Club<br />
 <a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.
