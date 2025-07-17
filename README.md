@@ -66,6 +66,7 @@ full-field programming language
 consisting of emojis.
 
 :: Lit. Club<br />
+<a href="https://openlibrary.org" target=_new>OpenLibrary.org</a><br />
 <a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.<br />
 
 :: List of Nicks'
