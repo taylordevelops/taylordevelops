@@ -1,12 +1,13 @@
-{Nisei Bujutsu made me code this.}
+os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
+::{Nisei Bujutsu made me code this.}<br />
 
-- 👋 Hello, my name is Taylor Steven Clark (Shazo Tragedie, Akuma Puma, Arboure Polymathues).
-- 👀 I am interested in human language development and mastery, mixed-martial arts, rap music, orthodox and catholic faiths, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.
-- 🌱 I am currently studying working on my cookbook projects: True Religion (including hymnal of psalms and poems) and Um Gi Ma (umgima.com; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.
+- 👋 Hello, my name is Taylor Steven Clark (Shazo Tragedie, Akuma Puma, Arboure Polymathues).<br />
+- 👀 I am interested in human language development and mastery, mixed-martial arts, rap music, orthodox and catholic faiths, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.<br />
+- 🌱 I am currently studying working on my cookbook projects: True Religion (including hymnal of psalms and poems) and Um Gi Ma (umgima.com; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.<br />
 
-🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.
-💩SSHHIT.com is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.
-💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is my Microsoft and Hackintosh Git Hub profile.
+🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.<br />
+💩SSHHIT.com is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.<br />
+💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is my Microsoft and Hackintosh Git Hub profile.<br />
 
 🐟🩸 <u>EightDrop.com</u> is a french-cracker blue-blood anarchy zine cookbook.<br />
 🐟🥤 <u>FishSoda.com</u> is a soft-drink brand we designed.<br />
@@ -36,7 +37,7 @@ English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 
-<ins>Desk Design</ins>::<br />
+:: Desk Design<br />
 	Front:     Blue;<br />
 	Back:     Black:Red<br />
 	Left:     Black:Blue<br />
