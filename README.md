@@ -100,3 +100,6 @@ consisting of emojis.
 :: List of Nicks'
     goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);
 
+:: Amazon Black Card
+<a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
+
