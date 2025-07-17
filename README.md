@@ -36,6 +36,16 @@ English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 
+<u>Desk Design</u>::
+	Front:     Blue;
+	Back:     Black:Red
+	Left:     Black:Blue
+	Right:     Black:Orange
+	Front-Left:    Skye/Teal
+	Front-Right:    Yellow-Orange
+	Rear-Left:    Purple
+	Rear-Right:Y    ellowBlack
+ 
 ::Hosting
 <a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a>
 
@@ -55,4 +65,8 @@ full-field programming language
 consisting of emojis.
 
 :: Lit. Club<br />
-<a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.
+<a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.<br />
+
+:: List of Nicks'
+    goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);
+
