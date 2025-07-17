@@ -36,15 +36,15 @@ English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 
-<u>Desk Design</u>::
-	Front:     Blue;
-	Back:     Black:Red
-	Left:     Black:Blue
-	Right:     Black:Orange
-	Front-Left:    Skye/Teal
-	Front-Right:    Yellow-Orange
-	Rear-Left:    Purple
-	Rear-Right:Y    ellowBlack
+<ins>Desk Design</ins>::<br />
+	Front:     Blue;<br />
+	Back:     Black:Red<br />
+	Left:     Black:Blue<br />
+	Right:     Black:Orange<br />
+	Front-Left:    Skye/Teal<br />
+	Front-Right:    Yellow-Orange<br />
+	Rear-Left:    Purple<br />
+	Rear-Right:Y    ellowBlack<br />
  
 ::Hosting
 <a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a>
