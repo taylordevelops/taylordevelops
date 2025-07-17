@@ -1,3 +1,8 @@
+...
+.
+::
+:
+.
 os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 ::{Nisei Bujutsu made me code this.}<br />
 
