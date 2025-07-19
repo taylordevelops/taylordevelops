@@ -100,8 +100,8 @@ consisting of emojis.
 
 :: Lit. Club<br />
 <a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.<br />
-<a href="https://openlibrary.org" target=_new>OpenLibrary.org</a> - Check it out.
-
+<a href="https://openlibrary.org" target=_new>OpenLibrary.org</a> - Check it out.<br />
+<a href="https://ocw.mit.edu" target=_new>MIT OpenCourseWare | Free Online Course Materials</a><br />
 :: List of Nicks'
     goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);
 
