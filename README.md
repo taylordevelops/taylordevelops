@@ -135,3 +135,10 @@ consisting of emojis.<br />
 :: Amazon Black Card<br />
 <a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
 
+
+
+
+
+:::: Eight List (JSON, ("Jesus' Son/Sun" - Shine)).
+{anti:shit, 8ctopu$8x, taels8x, hune-raft, .()}
+
