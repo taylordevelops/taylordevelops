@@ -138,7 +138,11 @@ consisting of emojis.<br />
 
 
 
+<br />
+:::: Eight List (JSON, ("Jesus' Son/Sun" - Shine)).<br />
 
-:::: Eight List (JSON, ("Jesus' Son/Sun" - Shine)).
-{anti:shit, 8ctopu$8x, taels8x, hune-raft, .()}
-
+:: CodeWord's CodeList GameSport by EightDrop, TaelsX8thelazyvikingseminolefukuoka ::<br />
+	// 8ctopu$8x:taelsx8:eightx
+ gitCoinFlip(
+{anti:shit, name:raft, litl:boat, phat:raft, fifo:fafo, gith:rati :: gitt:redy, .() } <br />
+);
