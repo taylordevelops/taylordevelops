@@ -25,13 +25,7 @@ os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 
 <a href="https://taylorstevenclark.hashnode.dev" target=_new>HashNode Articles</a><br />
 <br />
-::Hardware Kits<br />
-  💻 Notebook:<br />
-MacBook Air<br />
-M1, 2020<br />
-Chip Apple M1<br />
-Memory 8 GB<br />
-os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
+
 ::{Nisei Bujutsu made me code this.}<br />
 
 - 👋 Hello, my name is Taylor Steven Clark (Shazo Tragedie, Akuma Puma, Arboure Polymathues).<br />
