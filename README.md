@@ -144,6 +144,6 @@ consisting of emojis.<br />
 :: CodeWord's CodeList GameSport by EightDrop, <br />TaelsX8thelazyvikingseminolefukuoka ::<br />
 	// 8ctopu$8x:taelsx8:eightx<br />
  gitCoinFlip(<br />
-{anti:shit, name:raft, litl:boat, phat:raft, <br />fifo:fafo, gith:rati :: gitt:redy, .() } <br />
+{anti:shit, name:raft, litl:boat, phat:raft, <br />fifo:fafo, gith:rati :: gitt:redy, gold:fish, dkpk:yolo, bsfi:wifi, shit:sshh, ownd:gg:free:ht:dream:mk:ultraii .() } <br />
 );
 dontLoseFinger("OH:NO");
