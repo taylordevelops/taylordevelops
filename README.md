@@ -146,3 +146,4 @@ consisting of emojis.<br />
  gitCoinFlip(<br />
 {anti:shit, name:raft, litl:boat, phat:raft, <br />fifo:fafo, gith:rati :: gitt:redy, .() } <br />
 );
+dontLoseFinger("OH:NO");
