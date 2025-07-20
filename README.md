@@ -96,14 +96,22 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 
 🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> (<a href="https://github.com/emojicode">gh</a> - open-source,
 full-field programming language
-consisting of emojis.
+consisting of emojis.<br />
+
+:: Riot Games Seattle Jobs<br />
+<a href="https://www.riotgames.com/en/work-with-us/offices/seattle">Riot Games Seattle HQ Job List</a><br />
+
 
 :: Lit. Club<br />
 <a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.<br />
 <a href="https://openlibrary.org" target=_new>OpenLibrary.org</a> - Check it out.<br />
 <a href="https://ocw.mit.edu" target=_new>MIT OpenCourseWare | Free Online Course Materials</a><br />
+
 :: List of Nicks'
     goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);
+
+
+
 
 :: Amazon Black Card
 <a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
