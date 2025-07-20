@@ -70,18 +70,25 @@ English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 
-:: Desk Design<br />
-	Front:     Blue;<br />
-	Back:     Black:Red<br />
-	Left:     Black:Blue<br />
-	Right:     Black:Orange<br />
-	Front-Left:    Skye/Teal<br />
-	Front-Right:    Yellow-Orange<br />
-	Rear-Left:    Purple<br />
-	Rear-Right:Y    ellowBlack<br />
+
+
+:::: Website Resources<br />
  
-::Hosting
-<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a>
+:: Web Hosting<br />
+<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a><br />
+
+
+:::: Multimedia Resources<br />
+
+:: 🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> (<a href="https://github.com/emojicode">gh</a> - open-source,
+full-field programming language
+consisting of emojis.<br />
+
+:: Stock Photos Library<br />
+<a href="https://www.pexels.com" target=_new>Pexels Libary</a><br />
+
+
+:::: Apps & Software Favourites<br />
 
 :: Coinbase<br />
 <a href="https://coinbase.com/join/FM3ELUU?src=ios-link" target=_new><u>Coinbase</u></a><br />
@@ -92,28 +99,41 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 :: Digital Business Card<br />
 <a href="https://mybcard.io/card/63cb6ab7-b6e9-4826-84e9-66e1412bf9f0" target=_new>My Digital Business Card</a><br />
 
+:::: Hardware
+
+:: Phresh Noahide Desk Design<br />
+	Front:     Blue;<br />
+	Back:     Black:Red<br />
+	Left:     Black:Blue<br />
+	Right:     Black:Orange<br />
+	Front-Left:    Skye/Teal<br />
+	Front-Right:    Yellow-Orange<br />
+	Rear-Left:    Purple<br />
+	Rear-Right:Y    ellowBlack<br />
+
 :: Tum Tum Device<br />
 <a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a><br />
 
-🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> (<a href="https://github.com/emojicode">gh</a> - open-source,
-full-field programming language
-consisting of emojis.<br />
+
+
+:::: Job and Internship Resources<br />
 
 :: Riot Games Seattle Jobs<br />
 <a href="https://www.riotgames.com/en/work-with-us/offices/seattle">Riot Games Seattle HQ Job List</a><br />
 
+:::: Reading Resources🐃
 
 :: Lit. Club<br />
 <a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.<br />
 <a href="https://openlibrary.org" target=_new>OpenLibrary.org</a> - Check it out.<br />
 <a href="https://ocw.mit.edu" target=_new>MIT OpenCourseWare | Free Online Course Materials</a><br />
 
-:: List of Nicks'
+:: List of Nickkas'
     goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);
 
 
+:::: Financial Resources<br />
 
-
-:: Amazon Black Card
+:: Amazon Black Card<br />
 <a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
 
