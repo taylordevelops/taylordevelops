@@ -8,16 +8,16 @@ os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 
 - 👋 Hello, my name is Taylor Steven Clark (Shazo Tragedie, Akuma Puma, Arboure Polymathues).<br />
 - 👀 I am interested in human language development and mastery, mixed-martial arts, rap music, orthodox and catholic faiths, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.<br />
-- 🌱 I am currently studying working on my cookbook projects: True Religion (including hymnal of psalms and poems) and Um Gi Ma (umgima.com; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.<br />
+- 🌱 I am currently studying working on my anarchist cookbook poetry projects: True Religion (including hymnal of psalms and poems) and <a href="http://umgima.com" target=_new>Um Gi Ma</a> (independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie Kitchen Party Champagne of Central Washington University.<br />
 
 🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.<br />
-💩SSHHIT.com is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.<br />
+💩<a href="http://sshhit.com" target=_new>SSHHIT.com</a> is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.<br />
 💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is my Microsoft and Hackintosh Git Hub profile.<br />
 
 🐟🩸 <u>EightDrop.com</u> is a french-cracker blue-blood anarchy zine cookbook.<br />
 🐟🥤 <u>FishSoda.com</u> is a soft-drink brand we designed.<br />
 ⚓🔱 <u>ManfisherMinistries.com</u> is a musical street preaching club & brand of comedic fishermen for Christ that replace the dogcatchers.<br />
-💡💸 <u>Lightework.com</u> is my MMA name and featherweight eating brand dedicated to the klan and water.<br />
+💡💸 <a href="http://lightwork.com" target=_new><u>Lightework.com</u></a> is my MMA name and featherweight eating brand dedicated to the klan and water.<br />
 👶🐤 <u>itslejit.com</u> is a french dance club and parkour posse that slams like irish onyx and waterwalks like jesus.<br />
 🤟🎓 <u>Polymathues.com</u> is a Judeo-Christian homeschool supply company that designs innovative products for moms and imams alike.<br />
 🪙🔘<a href="https://octopus.itch.io/marble-elements" tar="_new"><b>octopus.Itch.io/marble-elements</b></a> is my Marble Elements labyrinth-style JS game to collect pieces of eight silver.
