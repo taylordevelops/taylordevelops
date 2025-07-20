@@ -140,9 +140,9 @@ consisting of emojis.<br />
 
 <br />
 :::: Eight List (JSON, ("Jesus' Son/Sun" - Shine)).<br />
-
-:: CodeWord's CodeList GameSport by EightDrop, TaelsX8thelazyvikingseminolefukuoka ::<br />
-	// 8ctopu$8x:taelsx8:eightx
- gitCoinFlip(
-{anti:shit, name:raft, litl:boat, phat:raft, fifo:fafo, gith:rati :: gitt:redy, .() } <br />
+<br />
+:: CodeWord's CodeList GameSport by EightDrop, <br />TaelsX8thelazyvikingseminolefukuoka ::<br />
+	// 8ctopu$8x:taelsx8:eightx<br />
+ gitCoinFlip(<br />
+{anti:shit, name:raft, litl:boat, phat:raft, <br />fifo:fafo, gith:rati :: gitt:redy, .() } <br />
 );
