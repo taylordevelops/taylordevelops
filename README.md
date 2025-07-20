@@ -83,16 +83,17 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 ::Hosting
 <a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a>
 
-:: Coinbase
-<a href="https://coinbase.com/join/FM3ELUU?src=ios-link" target=_new><u>Coinbase</u></a>
-:: Cash App
-<a href="https://cash.app/$taelsmusic" target=_new>$taelsmusic</a>
+:: Coinbase<br />
+<a href="https://coinbase.com/join/FM3ELUU?src=ios-link" target=_new><u>Coinbase</u></a><br />
 
-:: Digital Business Card
-<a href="https://mybcard.io/card/63cb6ab7-b6e9-4826-84e9-66e1412bf9f0" target=_new>My Digital Business Card</a>
+:: Cash App<br />
+<a href="https://cash.app/$taelsmusic" target=_new>$taelsmusic</a><br />
+
+:: Digital Business Card<br />
+<a href="https://mybcard.io/card/63cb6ab7-b6e9-4826-84e9-66e1412bf9f0" target=_new>My Digital Business Card</a><br />
 
 :: Tum Tum Device<br />
-<a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a>
+<a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a><br />
 
 🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> (<a href="https://github.com/emojicode">gh</a> - open-source,
 full-field programming language
