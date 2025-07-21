@@ -45,16 +45,31 @@ os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 🪙🔘<a href="https://octopus.itch.io/marble-elements" tar="_new"><b>octopus.Itch.io/marble-elements</b></a> is my Marble Elements labyrinth-style JS game to collect pieces of eight silver.
 
 
-<a href="https://taylorstevenclark.hashnode.dev" target=_new>HashNode Articles</a><br />
-<br />
-::Hardware Kits<br />
-  💻 Notebook:<br />
+
+
+::Lab Hardware<br />
+
+:: Phresh Noahide Desk Design<br />
+	Front:     Blue;<br />
+	Back:     Black:Red<br />
+	Left:     Black:Blue<br />
+	Right:     Black:Orange<br />
+	Front-Left:    Skye/Teal<br />
+	Front-Right:    Yellow-Orange<br />
+	Rear-Left:    Purple<br />
+	Rear-Right:Y    ellowBlack<br />
+
+:: 💻 Notebook<br />
 MacBook Air<br />
 M1, 2020<br />
 Chip Apple M1<br />
 Memory 8 GB<br />
 macOS 15.5<br />
 <br />
+
+:: Tum Tum Device<br />
+<a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a><br />
+
 :: 👨🏿‍💻 Software<br />
 Git Hub<br />
 Pixelmator Pro<br />
@@ -63,14 +78,19 @@ Pixelmator Pro<br />
 English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
-
+<br />
 
 
 :::: Website Resources<br />
- 
-:: Web Hosting<br />
-<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a><br />
 
+<a href="https://taylorstevenclark.hashnode.dev" target=_new>Taylor Steven Clark's HashNode Articles</a><br />
+<br />
+
+ 
+:::: Web Hosting<br />
+
+::<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a><br />
+<br />
 
 :::: Multimedia Resources<br />
 
@@ -97,37 +117,23 @@ consisting of emojis.<br />
 <a href="https://www.whiteflagapp.com" target=_new>Whiteflag App</a><br />
 
 
-:::: Hardware
-
-:: Phresh Noahide Desk Design<br />
-	Front:     Blue;<br />
-	Back:     Black:Red<br />
-	Left:     Black:Blue<br />
-	Right:     Black:Orange<br />
-	Front-Left:    Skye/Teal<br />
-	Front-Right:    Yellow-Orange<br />
-	Rear-Left:    Purple<br />
-	Rear-Right:Y    ellowBlack<br />
-
-:: Tum Tum Device<br />
-<a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a><br />
-
-
-
 :::: Job and Internship Resources<br />
 
 :: Riot Games Seattle Jobs<br />
 <a href="https://www.riotgames.com/en/work-with-us/offices/seattle">Riot Games Seattle HQ Job List</a><br />
 
-:::: Reading Resources🐃
+:::: Reading Resources🐃<br />
 
 :: Lit. Club<br />
 <a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.<br />
 <a href="https://openlibrary.org" target=_new>OpenLibrary.org</a> - Check it out.<br />
 <a href="https://ocw.mit.edu" target=_new>MIT OpenCourseWare | Free Online Course Materials</a><br />
 
+:: Christian Learning Resources<br />
+<a href="https://www.christianbook.com" target=_new>Christianbook.com</a><br />
+
 :: List of Nickkas'
-    goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);
+    goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);<br />
 
 
 :::: Financial Resources<br />
@@ -144,6 +150,6 @@ consisting of emojis.<br />
 :: CodeWord's CodeList GameSport by EightDrop, <br />TaelsX8thelazyvikingseminolefukuoka ::<br />
 	// 8ctopu$8x:taelsx8:eightx<br />
  gitCoinFlip(<br />
-{anti:shit, name:raft, litl:boat, phat:raft, <br />fifo:fafo, gith:rati :: gitt:redy, gold:fish, dkpk:yolo, bsfi:wifi, shit:sshh, ownd:gg:free:ht:dream:mk:ultraii .() } <br />
+{anti:shit, name:raft, litl:boat, phat:raft, <br />fifo:fafo, gith:rati :: gitt:redy, gold:fish, dkpk:yolo, bsfi:wifi, shit:sshh, ownd:gg:free:ht:dream:mk:ultraii, flip:card, true:real,  .() } <br />
 );
 dontLoseFinger("OH:NO");
