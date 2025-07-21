@@ -110,9 +110,6 @@ consisting of emojis.<br />
 :: Christian Learning Resources<br />
 <a href="https://www.christianbook.com" target=_new>Christianbook.com</a><br />
 
-:: List of Nickkas'
-    goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);<br />
-
 
 :::: Financial Resources<br />
 
@@ -130,4 +127,9 @@ consisting of emojis.<br />
  gitCoinFlip(<br />
 {anti:shit, name:raft, litl:boat, phat:raft, <br />fifo:fafo, gith:rati :: gitt:redy, gold:fish, dkpk:yolo, bsfi:wifi, shit:sshh, ownd:gg:free:ht:dream:mk:ultraii, flip:card, true:real,  .() } <br />
 );
-dontLoseFinger("OH:NO");
+dontLoseFinger("OH:NO");<br />
+
+
+:: List of Nickkas'
+    goGadget.alias(water:octopus:8, originator:buttonpresser:mine, robinhood : absolute zero : quantum zero, Greek Warrior, .greekwarrior, .gw, .hardassbar:dick:stick; chipherfire:soulflame:nodesire; .greekpolymath, .algebraic(looney), .go);<br />
+
