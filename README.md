@@ -11,7 +11,7 @@ os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 - 🌱 I am currently studying working on my cookbook projects: True Religion (including hymnal of psalms and poems) and Um Gi Ma (umgima.com; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.<br />
 
 🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.<br />
-💩SSHHIT.com is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.<br />
+💩<a href="http://sshhit.com" target=_new>SSHHIT.com</a> is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.<br />
 💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is my Microsoft and Hackintosh Git Hub profile.<br />
 
 🐟🩸 <u>EightDrop.com</u> is a french-cracker blue-blood anarchy zine cookbook.<br />
