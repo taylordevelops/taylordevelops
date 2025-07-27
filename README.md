@@ -119,8 +119,9 @@ consisting of emojis.<br />
 :::: Religious Resources<br />
 <a href="https://global.bible" target=_new>Global.Bible</a><br />
 
-<a href="https://www.goarch.org" target=_new>Global.Bible</a><br />
+<a href="https://www.goarch.org" target=_new>Greek Orthodox Archdiocese</a><br />
 
+<a href="https://www.goarch.org/-/daily-reading-app" target=_new>G.O. Daily Reading App</a>
 
 <br />
 :::: Eight List (JSON, ("Jesus' Son/Sun" - Shine)).<br />
