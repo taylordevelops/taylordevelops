@@ -116,7 +116,10 @@ consisting of emojis.<br />
 :: Amazon Black Card<br />
 <a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
 
+:::: Religious Resources<br />
+<a href="https://global.bible" target=_new>Global.Bible</a><br />
 
+<a href="https://www.goarch.org" target=_new>Global.Bible</a><br />
 
 
 <br />
