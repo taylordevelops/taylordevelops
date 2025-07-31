@@ -6,9 +6,9 @@
 os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 ::{Nisei Bujutsu made me code this.}<br />
 
-- 👋 Hello, my name is Taylor Steven Clark (Shazo Tragedie, Akuma Puma, Arboure Polymathues).<br />
+- 👋 Hello, my name is <a href="https://taylorstevenclark.com" target=_new>Taylor Steven Clark</a> (Shazo Tragedie, Akuma Puma, Arboure Polymathues).<br />
 - 👀 I am interested in human language development and mastery, mixed-martial arts, rap music, orthodox and catholic faiths, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.<br />
-- 🌱 I am currently studying working on my cookbook projects: True Religion (including hymnal of psalms and poems) and <a href="https://umgima.com" target=_new>Um Gi Ma</a> (<a href="https://umgima.com" target=_new>umgima.com</a>; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.<br />
+- 🌱 I am currently studying working on my book projects: <a href="https://taylorstevenclark.com" target=_new>The Poetic Works of Taylor Steven Clark</a>, True Religion (including hymnal of psalms and poems) and <a href="https://umgima.com" target=_new>Um Gi Ma</a> (<a href="https://umgima.com" target=_new>umgima.com</a>; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.<br />
 
 🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.<br />
 💩<a href="http://sshhit.com" target=_new>SSHHIT.com</a> is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.<br />
