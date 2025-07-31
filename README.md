@@ -46,7 +46,7 @@ macOS 15.5<br />
 
 :: Tum Tum Device<br />
 <a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a><br />
-
+<br /><br />
 :: 👨🏿‍💻 Software<br />
 Git Hub<br />
 Pixelmator Pro<br />
@@ -57,12 +57,12 @@ JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 <br />
 
-
+<br /><br />
 :::: Web Hosting Referral<br />
 
 ::<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a><br />
 <br />
-
+<br /><br />
 :::: Multimedia Resources<br />
 
 :: Stock Photos Library<br />
@@ -73,7 +73,7 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 full-field programming language
 consisting of emojis.<br />
 
-
+<br /><br />
 
 :::: Apps & Software Favourites<br />
 
@@ -89,20 +89,20 @@ consisting of emojis.<br />
 :: Free Mental Health App<br />
 <a href="https://www.whiteflagapp.com" target=_new>Whiteflag App</a><br />
 
-
+<br /><br />
 :::: Financial Resources<br />
 
 :: Amazon Black Card<br />
 <a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
 
-
+<br /><br />
 
 :::: Job and Internship Resources<br />
 
 :: Riot Games Seattle Jobs<br />
 <a href="https://www.riotgames.com/en/work-with-us/offices/seattle">Riot Games Seattle HQ Job List</a><br />
 
-
+<br /><br />
 
 :::: Reading Resources🐃<br />
 
