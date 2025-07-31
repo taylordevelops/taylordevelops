@@ -43,7 +43,6 @@ M1, 2020<br />
 Chip Apple M1<br />
 Memory 8 GB<br />
 macOS 15.5<br />
-<br />
 
 :: Tum Tum Device<br />
 <a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a><br />
@@ -59,25 +58,21 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 <br />
 
 
-:::: Website Resources<br />
-
-<a href="https://taylorstevenclark.hashnode.dev" target=_new>Taylor Steven Clark's HashNode Articles</a><br />
-<br />
-
- 
-:::: Web Hosting<br />
+:::: Web Hosting Referral<br />
 
 ::<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a><br />
 <br />
 
 :::: Multimedia Resources<br />
 
+:: Stock Photos Library<br />
+<a href="https://www.pexels.com" target=_new>Pexels Libary</a><br />
+
+:::: Artful Coding Resources<br />
 :: 🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> (<a href="https://github.com/emojicode">gh</a> - open-source,
 full-field programming language
 consisting of emojis.<br />
 
-:: Stock Photos Library<br />
-<a href="https://www.pexels.com" target=_new>Pexels Libary</a><br />
 
 
 :::: Apps & Software Favourites<br />
@@ -95,10 +90,19 @@ consisting of emojis.<br />
 <a href="https://www.whiteflagapp.com" target=_new>Whiteflag App</a><br />
 
 
+:::: Financial Resources<br />
+
+:: Amazon Black Card<br />
+<a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
+
+
+
 :::: Job and Internship Resources<br />
 
 :: Riot Games Seattle Jobs<br />
 <a href="https://www.riotgames.com/en/work-with-us/offices/seattle">Riot Games Seattle HQ Job List</a><br />
+
+
 
 :::: Reading Resources🐃<br />
 
@@ -107,14 +111,8 @@ consisting of emojis.<br />
 <a href="https://openlibrary.org" target=_new>OpenLibrary.org</a> - Check it out.<br />
 <a href="https://ocw.mit.edu" target=_new>MIT OpenCourseWare | Free Online Course Materials</a><br />
 
-:: Christian Learning Resources<br />
-<a href="https://www.christianbook.com" target=_new>Christianbook.com</a><br />
 
-
-:::: Financial Resources<br />
-
-:: Amazon Black Card<br />
-<a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
+<br />
 
 :::: Religious Resources<br />
 <a href="https://global.bible" target=_new>Global.Bible</a><br />
@@ -122,6 +120,10 @@ consisting of emojis.<br />
 <a href="https://www.goarch.org" target=_new>Greek Orthodox Archdiocese</a><br />
 
 <a href="https://www.goarch.org/-/daily-reading-app" target=_new>G.O. Daily Reading App</a>
+
+:: Christian Learning Resources<br />
+<a href="https://www.christianbook.com" target=_new>Christianbook.com</a><br />
+
 
 <br />
 :::: Eight List (JSON, ("Jesus' Son/Sun" - Shine)).<br />
