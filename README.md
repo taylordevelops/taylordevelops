@@ -29,16 +29,6 @@ Current Projects:<br />
 
 ::Lab Hardware<br />
 
-:: Phresh Noahide Desk Design<br />
-	Front:     Blue;<br />
-	Back:     Black:Red<br />
-	Left:     Black:Blue<br />
-	Right:     Black:Orange<br />
-	Front-Left:    Skye/Teal<br />
-	Front-Right:    Yellow-Orange<br />
-	Rear-Left:    Purple<br />
-	Rear-Right:Y    ellowBlack<br />
-
 :: 💻 Notebook<br />
 MacBook Air<br />
 M1, 2020<br />
