@@ -11,7 +11,6 @@ os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 - 🌱 I am currently studying & working on my book projects: <a href="https://taylorstevenclark.com" target=_new>The Poetic Works of Taylor Steven Clark</a>, True Religion (including hymnal of psalms and poems) and <a href="https://umgima.com" target=_new>Um Gi Ma</a> (<a href="https://umgima.com" target=_new>umgima.com</a>; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.<br />
 <br />
 Current Projects:<br />
-
 🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.<br />
 💩<a href="http://sshhit.com" target=_new>SSHHIT.com</a> is shitty IT for the dirty rodeo crowd that came out of the mud in ashes to ashes.<br />
 💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is my Microsoft and Hackintosh Git Hub profile.<br />
@@ -34,27 +33,32 @@ M1, 2020<br />
 Chip Apple M1<br />
 Memory 8 GB<br />
 macOS 15.5<br />
-
 <br />
+
 :: 👨🏿‍💻 Useful Software for Mac<br />
 <a href="https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12" target=_new>Pixelmator Pro</a><br />
-<br />
+<br /><br />
 :: 🤟 Languages<br />
 English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 <br />
 :::: Web Hosting Referral<br />
+
 ::<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a><br />
 <br />
 :::: Multimedia Resources<br />
+
 :: Stock Photos Library<br />
 <a href="https://www.pexels.com" target=_new>Pexels Libary</a><br />
+
 :::: Artful Coding Resources<br />
 :: 🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> (<a href="https://github.com/emojicode">gh</a> - open-source,
 full-field programming language
 consisting of emojis.<br />
+
 :::: Apps & Software Favourites<br />
+
 :: Coinbase<br />
 <a href="https://coinbase.com/join/FM3ELUU?src=ios-link" target=_new><u>Coinbase</u></a><br />
 :: Cash App<br />
@@ -64,20 +68,26 @@ consisting of emojis.<br />
 :: Free Mental Health App<br />
 <a href="https://www.whiteflagapp.com" target=_new>Whiteflag App</a><br />
 <br />
+
 :::: Financial Resources<br />
+
 :: Amazon Black Card<br />
 <a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
 <br />
+
 :::: Job and Internship Resources<br />
+
 :: Riot Games Seattle Jobs<br />
 <a href="https://www.riotgames.com/en/work-with-us/offices/seattle">Riot Games Seattle HQ Job List</a><br />
 <br />
+
 :::: Reading Resources🐃<br />
 :: Lit. Club<br />
 <a href="https://www.gutenberg.org" target=_new>Project Gutenberg</a> - Free Libary with over 75k books.<br />
 <a href="https://openlibrary.org" target=_new>OpenLibrary.org</a> - Check it out.<br />
 <a href="https://ocw.mit.edu" target=_new>MIT OpenCourseWare | Free Online Course Materials</a><br />
 <br />
+
 :::: Religious Resources<br />
 <a href="https://global.bible" target=_new>Global.Bible</a><br />
 <a href="https://www.goarch.org" target=_new>Greek Orthodox Archdiocese</a><br />
@@ -85,8 +95,8 @@ consisting of emojis.<br />
 :: Christian Learning Resources<br />
 <a href="https://www.christianbook.com" target=_new>Christianbook.com</a><br />
 <br />
+
 :::: Eight List (JSON, ("Jesus' Son/Sun" - Shine)).<br />
-<br />
 :: CodeWord's CodeList GameSport by EightDrop, <br />TaelsX8thelazyvikingseminolefukuoka ::<br />
 	// 8ctopu$8x:taelsx8:eightx<br />
  gitCoinFlip(<br />
