@@ -36,12 +36,9 @@ Chip Apple M1<br />
 Memory 8 GB<br />
 macOS 15.5<br />
 
-:: Tum Tum Device<br />
-<a href="https://www.amazon.com/dp/B0CQ3L4726/?coliid=IY2OVTCAQ4SO1&colid=PQ8QC20RWJZ3&psc=1&ref_=cm_sw_r_cp_ud_lstpd_SEW0AS05S6GDXSWHZGAN" target=_new>Valve Steam Deck Oled</a><br />
 <br /><br />
-:: 👨🏿‍💻 Software<br />
-Git Hub<br />
-Pixelmator Pro<br />
+:: 👨🏿‍💻 Useful Software for Mac<br />
+<a href="https://apps.apple.com/us/app/pixelmator-pro/id1289583905?mt=12" target=_new>Pixelmator Pro</a><br />
 <br />
 :: 🤟 Languages<br />
 English, French, Spanish, Latin, Greek<br />
