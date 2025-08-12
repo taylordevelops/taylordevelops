@@ -24,7 +24,7 @@ Current Projects:<br />
 
 <br />
 
-
+<br /><br />
 ::Lab Hardware<br />
 
 :: 💻 Notebook<br />
@@ -42,11 +42,10 @@ macOS 15.5<br />
 English, French, Spanish, Latin, Greek<br />
 JavaScript, TypeScript, HTML5, CSS3, Python, Perl, <br />
 OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
-<br />
+<br /><br />
 :::: Web Hosting Referral<br />
-
 ::<a href="https://www.greengeeks.com/track/u134519" target=_new><u>Green Geeks Hosting Service Referral Code</u></a><br />
-<br />
+<br /><br /><br />
 :::: Multimedia Resources<br />
 
 :: Stock Photos Library<br />
@@ -56,7 +55,7 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 :: 🐃 <a href="https://www.emojicode.org" target="_new">Emojicode</a> (<a href="https://github.com/emojicode">gh</a> - open-source,
 full-field programming language
 consisting of emojis.<br />
-
+<br /><br />
 :::: Apps & Software Favourites<br />
 
 :: Coinbase<br />
@@ -74,7 +73,7 @@ consisting of emojis.<br />
 :: Amazon Black Card<br />
 <a href="https://www.amazon.com/dp/BT00LN946S?externalReferenceId=1a30a378-7159-4822-922a-e510d3f2c673">Amazon Prime Visa Affiliate Program</a>
 <br />
-
+<br />
 :::: Job and Internship Resources<br />
 
 :: Riot Games Seattle Jobs<br />
