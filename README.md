@@ -6,7 +6,7 @@
 Current Projects:<br />
 
 💡💸 <a href="https://lightework.com" target=_new>Lightework.com</a> is my design agency & front-facing IT company.<br />
-🌱 I just released a poetry book: <a href="https://taylorstevenclark.com" target=_new>The Poetic Works of Taylor Steven Clark</a>
+🌱 I just released a poetry book: <a href="https://taylorstevenclark.com" target=_new>The Poetic Works of Taylor Steven Clark</a><br />
 🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry.<br />
 💩<a href="http://sshhit.com" target=_new>SSHHIT.com</a> is my naturalist deathcore project.<br />
 💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is this Microsoft and Hackintosh Git Hub profile.<br />
