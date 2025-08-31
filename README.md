@@ -1,12 +1,4 @@
-...
-.
-::
-:
-.
-os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
-::{Nisei Bujutsu made me code this.}<br />
-
-- 👋 Hello, my name is <a href="https://taylorstevenclark.com" target=_new>Taylor Steven Clark</a> (Shazo Tragedie, Akuma Puma, Arboure Polymathues).<br />
+👋 Hello, my name is <a href="https://taylorstevenclark.com" target=_new>Taylor Steven Clark</a><br />
 - 👀 I am interested in human language development and mastery, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.<br />
 
 
