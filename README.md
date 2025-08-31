@@ -7,18 +7,21 @@ os.octopus.os.ss.html5.css3.js.ts.p.ox.subtly.young.salty<br />
 ::{Nisei Bujutsu made me code this.}<br />
 
 - 👋 Hello, my name is <a href="https://taylorstevenclark.com" target=_new>Taylor Steven Clark</a> (Shazo Tragedie, Akuma Puma, Arboure Polymathues).<br />
-- 👀 I am interested in human language development and mastery, mixed-martial arts, rap music, orthodox and catholic faiths, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.<br />
-- 🌱 I am currently studying & working on my book projects: <a href="https://taylorstevenclark.com" target=_new>The Poetic Works of Taylor Steven Clark</a>, True Religion (including hymnal of psalms and poems) and <a href="https://umgima.com" target=_new>Um Gi Ma</a> (<a href="https://umgima.com" target=_new>umgima.com</a>; independent 3rd-party, verbal self-defence systems AF) as the Akuma Puma Shazo Tragedie at Central Washington University.<br />
+- 👀 I am interested in human language development and mastery, fine arts, web development, UX, procedural generation, algorithms, and life-long learning.<br />
+
+
 <br />
 Current Projects:<br />
-🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry, and the face of a Christian Salt Company that sells bath bombs in their swag bags.<br />
+
+💡💸 <a href="https://lightework.com" target=_new>Lightework.com</a> is my design agency & front-facing IT company.<br />
+🌱 I just released a poetry book: <a href="https://taylorstevenclark.com" target=_new>The Poetic Works of Taylor Steven Clark</a>
+🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry.<br />
 💩<a href="http://sshhit.com" target=_new>SSHHIT.com</a> is my naturalist deathcore project.<br />
 💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is this Microsoft and Hackintosh Git Hub profile.<br />
-
-⚓🔱 <a href="https://manfisherministries.com" target=_new><u>ManfisherMinistries.com</u></a> is a musical street preaching club & brand of comedic fishermen for Christ that replace the dogcatchers.<br />
+🥋<a href="https://umgima.com" target=_new>Um Gi Ma</a> (<a href="https://umgima.com" target=_new>umgima.com</a> is a verbal association of self-defence.<br />
+⚓🔱 <a href="https://manfisherministries.com" target=_new><u>ManfisherMinistries.com</u></a> is a musical street preaching club & brand of comedic fishermen.<br />
 ☀️😎<a href="http://stillstupidonsunday.com" target=_new>StillStupidOnSunday.com</a> is the nice way to say it.<br />
 🩳🚌<a href="http://shortbusallstars.com" target=_new>Short Bus All Stars</a> are the only best team ever!<br />
-💡💸 <a href="https://lightework.com" target=_new>Lightework.com</a> is my design agency & front-facing IT company.<br />
 🪙🔘<a href="https://octopus.itch.io/marble-elements" tar="_new">octopus.Itch.io/marble-elements</a> is my Marble Elements labyrinth-style JS game to collect pieces of eight silver.
 
 <br />
