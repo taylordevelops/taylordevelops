@@ -10,7 +10,7 @@ Current Projects:<br />
 🧂<a href="https://youngsalty.com" target="_new">YoungSalty.com</a> is for Public Speaking and Poetry.<br />
 💩<a href="http://sshhit.com" target=_new>SSHHIT.com</a> is my naturalist deathcore project.<br />
 💻<a href="https://taylordevelops.com/" target="_new">TaylorDevelops.com</a> is this Microsoft and Hackintosh Git Hub profile.<br />
-🥋<a href="https://umgima.com" target=_new>Um Gi Ma</a> (<a href="https://umgima.com" target=_new>umgima.com</a> is a verbal association of self-defence.<br />
+🥋<a href="https://umgima.com" target=_new>Um Gi Ma</a> is a verbal association of defense.<br />
 ⚓🔱 <a href="https://manfisherministries.com" target=_new><u>ManfisherMinistries.com</u></a> is a musical street preaching club & brand of comedic fishermen.<br />
 ☀️😎<a href="http://stillstupidonsunday.com" target=_new>StillStupidOnSunday.com</a> is the nice way to say it.<br />
 🩳🚌<a href="http://shortbusallstars.com" target=_new>Short Bus All Stars</a> are the only best team ever!<br />
