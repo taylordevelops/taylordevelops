@@ -20,7 +20,7 @@ Current Projects:<br />
 
 Future Projects:<br />
 🐟🩸 <u>EightDrop.com</u> is a french-cracker blue-blood anarchy zine cookbook.<br />
-🐟🥤 <u>FishSoda.com</u> is a soft-drink brand we designed.<br />
+🐟🥤 <u><a href="http://fishsoda.com" target=_new>FishSoda.com</a></u> is a soft-drink brand we designed.<br />
 👶🐤 itslejit.com is a french dance club and parkour posse that slams like irish onyx and waterwalks like jesus.<br />
 🤟🎓 Polymathues.com is a Judeo-Christian homeschool supply company that designs innovative products for families and students.<br />
 
