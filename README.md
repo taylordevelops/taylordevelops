@@ -56,6 +56,11 @@ OS' :: UNIX Terminal, DOS, Windows, Linux, Octopus OS, Emojis<br />
 full-field programming language
 consisting of emojis.<br />
 <br /><br />
+
+:::: Web Development Tools<br />
+:: <a href="https://validator.w3.org" target="_blank">HTML Validator (W3)</a>
+
+
 :::: Apps & Software Favourites<br />
 
 :: Coinbase<br />
