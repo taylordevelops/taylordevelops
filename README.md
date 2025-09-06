@@ -61,7 +61,7 @@ consisting of emojis.<br />
 :: <a href="https://validator.w3.org" target="_blank">HTML Validator (W3)</a>
 :: <a href="https://jsonformatter.org" target="_blank">JSON Formatter / Validator (W3)</a>
 :: <a href="https://www.w3.org/TR/WCAG21/" target="_blank">Web Content Accessibility Guidelines (WCAG) 2.1</a>
-
+:: <a href="https://developer.chrome.com/docs/lighthouse/overview" target="_blank">Google Lighthouse (Chrome Extension)</a>
 :::: Apps & Software Favourites<br />
 
 :: Coinbase<br />
